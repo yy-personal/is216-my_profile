@@ -1,0 +1,68 @@
+h1 {
+    
+    color: rgb(64, 39, 175);
+    text-align: center;
+}
+
+h1 span{
+    background-color: aquamarine;
+}
+
+h2{
+    text-align: center;
+}
+h2 span{
+    background-color: yellow;
+}
+table {
+    margin: auto;
+    border: darkorange 2px solid;
+    width: 100px;
+    text-align: center;
+}
+.meirl {
+    border: pink 2px solid;
+}
+td {
+    border: darkorange 2px solid;
+}
+td.this_is_me {
+    text-align: center;
+    font-style: italic;
+    color: darkorchid;
+    background-color: pink;
+}
+table, td, tr{
+    border-collapse: collapse;
+}
+.copium{
+    width: 120px;
+    height: auto;
+    border:2px black dashed;
+}
+.phrase {
+    background-color: grey;
+    color: maroon;
+    
+    
+}
+.skyblue {
+    background-color: skyblue;
+    color: darkblue;
+}
+.darkblue {
+    background-color: darkblue;
+    color: white;
+}
+.purple {
+    background-color: purple;
+    color: white;
+}
+.green {
+    background-color: lightgreen;
+}
+.favourite_place {
+    background-color: lightblue;
+    color: white;
+}
+
